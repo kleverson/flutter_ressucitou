@@ -1,0 +1,4 @@
+#Mon Feb 24 20:28:04 BRT 2020
+base.0=/Users/kleverson/StudioProjects/fluutter/ressucitou/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
